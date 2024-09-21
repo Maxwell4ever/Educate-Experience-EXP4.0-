@@ -17,8 +17,11 @@
 
 ## Before Term 2 starts, the team wants to know how Term 1 went in terms of product implementation and scholars participation.
 
- By using Excel, show overall completion and participation rates of Skills labs and Group mentoring sessions 
+ ## Task
+ By using Excel, show overall completion and participation rates of Skills labs and Group mentoring sessions.
+ 
  By using bar graphs, show completion and participation rates per Skills labs lessons and Group mentoring session types. 
+ 
  Show the overall completion and participation rates of community day events and per Regions and use a graph to display your findings. 
 
  Is there any additional information you wish the dataset included that could improve your analyses? 
